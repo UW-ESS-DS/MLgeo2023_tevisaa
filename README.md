@@ -4,6 +4,8 @@
 
 And basic text.
 
+## Class GitHub
+
 Class GitHub: [https://github.com/UW-ESS-DS/MLGeo-2023]
 
 ## Favorite Earth science topics
