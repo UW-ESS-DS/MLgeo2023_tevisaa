@@ -14,7 +14,7 @@ Geobiology
 
 ## How to clone a repository
 ```
-git clone https://github.com/UW-ESS-DS/MLgeo2023_tevisaa
+git clone git@github.com:UW-ESS-DS/MLgeo2023_tevisaa.git
 ```
 ## Licensing choice
 
