@@ -9,6 +9,7 @@ Class GitHub: [https://github.com/UW-ESS-DS/MLGeo-2023]
 ## Favorite Earth science topics
 
 Ecosystem and hydro-biogeochemistry
+
 Geobiology
 
 ## How to clone a repository
